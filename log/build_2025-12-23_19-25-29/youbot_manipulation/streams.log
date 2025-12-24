@@ -1,0 +1,16 @@
+[0.913s] Invoking command in '/home/youssef/fyp_ws/src/build/youbot_manipulation': PYTHONPATH=/home/youssef/fyp_ws/src/build/youbot_manipulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/fyp_ws/src/install/youbot_manipulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/youssef/fyp_ws/src/build/youbot_manipulation/build --no-deps symlink_data
+[1.198s] running develop
+[1.380s] running egg_info
+[1.381s] writing youbot_manipulation.egg-info/PKG-INFO
+[1.381s] writing dependency_links to youbot_manipulation.egg-info/dependency_links.txt
+[1.381s] writing entry points to youbot_manipulation.egg-info/entry_points.txt
+[1.381s] writing requirements to youbot_manipulation.egg-info/requires.txt
+[1.381s] writing top-level names to youbot_manipulation.egg-info/top_level.txt
+[1.383s] reading manifest file 'youbot_manipulation.egg-info/SOURCES.txt'
+[1.384s] writing manifest file 'youbot_manipulation.egg-info/SOURCES.txt'
+[1.385s] running build_ext
+[1.385s] Creating /home/youssef/fyp_ws/src/install/youbot_manipulation/lib/python3.10/site-packages/youbot-manipulation.egg-link (link to .)
+[1.386s] 
+[1.386s] Installed /home/youssef/fyp_ws/src/build/youbot_manipulation
+[1.387s] running symlink_data
+[1.413s] Invoked command in '/home/youssef/fyp_ws/src/build/youbot_manipulation' returned '0': PYTHONPATH=/home/youssef/fyp_ws/src/build/youbot_manipulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/fyp_ws/src/install/youbot_manipulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/youssef/fyp_ws/src/build/youbot_manipulation/build --no-deps symlink_data

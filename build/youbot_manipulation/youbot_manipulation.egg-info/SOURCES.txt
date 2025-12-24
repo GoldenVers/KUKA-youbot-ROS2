@@ -1,0 +1,16 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../build/youbot_manipulation/youbot_manipulation.egg-info/PKG-INFO
+../build/youbot_manipulation/youbot_manipulation.egg-info/SOURCES.txt
+../build/youbot_manipulation/youbot_manipulation.egg-info/dependency_links.txt
+../build/youbot_manipulation/youbot_manipulation.egg-info/entry_points.txt
+../build/youbot_manipulation/youbot_manipulation.egg-info/requires.txt
+../build/youbot_manipulation/youbot_manipulation.egg-info/top_level.txt
+../build/youbot_manipulation/youbot_manipulation.egg-info/zip-safe
+resource/youbot_manipulation
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+youbot_manipulation/__init__.py

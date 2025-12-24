@@ -1,0 +1,16 @@
+[0.858s] Invoking command in '/home/youssef/fyp_ws/src/build/youbot_navigation': PYTHONPATH=/home/youssef/fyp_ws/src/build/youbot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/fyp_ws/src/install/youbot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/youssef/fyp_ws/src/build/youbot_navigation/build --no-deps symlink_data
+[1.125s] running develop
+[1.306s] running egg_info
+[1.306s] writing youbot_navigation.egg-info/PKG-INFO
+[1.306s] writing dependency_links to youbot_navigation.egg-info/dependency_links.txt
+[1.307s] writing entry points to youbot_navigation.egg-info/entry_points.txt
+[1.307s] writing requirements to youbot_navigation.egg-info/requires.txt
+[1.307s] writing top-level names to youbot_navigation.egg-info/top_level.txt
+[1.309s] reading manifest file 'youbot_navigation.egg-info/SOURCES.txt'
+[1.310s] writing manifest file 'youbot_navigation.egg-info/SOURCES.txt'
+[1.312s] running build_ext
+[1.312s] Creating /home/youssef/fyp_ws/src/install/youbot_navigation/lib/python3.10/site-packages/youbot-navigation.egg-link (link to .)
+[1.313s] 
+[1.313s] Installed /home/youssef/fyp_ws/src/build/youbot_navigation
+[1.313s] running symlink_data
+[1.341s] Invoked command in '/home/youssef/fyp_ws/src/build/youbot_navigation' returned '0': PYTHONPATH=/home/youssef/fyp_ws/src/build/youbot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/fyp_ws/src/install/youbot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/youssef/fyp_ws/src/build/youbot_navigation/build --no-deps symlink_data
