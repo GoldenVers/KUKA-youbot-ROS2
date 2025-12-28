@@ -1,0 +1,30 @@
+[1.993s] Invoking command in '/home/youssef/fyp_ws/src/build/youbot_navigation': PYTHONPATH=/home/youssef/fyp_ws/src/build/youbot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/fyp_ws/src/install/youbot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/youssef/fyp_ws/src/build/youbot_navigation/build --no-deps symlink_data --force
+[2.475s] /home/youssef/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[2.475s]   warnings.warn(msg)
+[2.871s] running develop
+[2.904s] Traceback (most recent call last):
+[2.905s]   File "/home/youssef/fyp_ws/src/build/youbot_navigation/setup.py", line 30, in <module>
+[2.905s]     setup(
+[2.905s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 117, in setup
+[2.905s]     return distutils.core.setup(**attrs)
+[2.905s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 186, in setup
+[2.905s]     return run_commands(dist)
+[2.905s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 202, in run_commands
+[2.908s]     dist.run_commands()
+[2.908s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 1002, in run_commands
+[2.908s]     self.run_command(cmd)
+[2.908s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/dist.py", line 1104, in run_command
+[2.908s]     super().run_command(command)
+[2.908s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 1020, in run_command
+[2.908s]     cmd_obj.ensure_finalized()
+[2.908s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py", line 135, in ensure_finalized
+[2.908s]     self.finalize_options()
+[2.908s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/command/develop.py", line 51, in finalize_options
+[2.909s]     easy_install.finalize_options(self)
+[2.909s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/command/easy_install.py", line 251, in finalize_options
+[2.909s]     'dist_fullname': self.distribution.get_fullname(),
+[2.909s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 275, in get_fullname
+[2.909s]     return _distribution_fullname(self.get_name(), self.get_version())
+[2.909s]   File "/home/youssef/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 293, in _distribution_fullname
+[2.909s]     canonicalize_version(version, strip_trailing_zero=False),
+[2.909s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'

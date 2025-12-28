@@ -1,0 +1,233 @@
+[0.036s] Invoking command in '/home/youssef/fyp_ws/src/build/youbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ros2_ws/install/py_srvcli:/home/youssef/ros2_ws/install/py_srv:/home/youssef/ros2_ws/install/py_pubsub:/home/youssef/ros2_ws/install/pubsub:/home/youssef/ros2_ws/install/line_follower:/home/youssef/ros2_ws/install/fake_sensors:/home/youssef/ros2_ws/install/fake:/home/youssef/ros2_ws/install/actions_py:/home/youssef/turtlebot3_ws/install/turtlebot3_teleop:/home/youssef/turtlebot3_ws/install/turtlebot3_example:/home/youssef/install/fake_sensors:/opt/ros/humble /usr/bin/cmake /home/youssef/fyp_ws/src/youbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/youssef/fyp_ws/src/install/youbot_description
+[0.677s] -- The C compiler identification is GNU 11.4.0
+[0.678s] -- The CXX compiler identification is GNU 11.4.0
+[0.678s] -- Detecting C compiler ABI info
+[0.678s] -- Detecting C compiler ABI info - done
+[0.678s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.678s] -- Detecting C compile features
+[0.678s] -- Detecting C compile features - done
+[0.678s] -- Detecting CXX compiler ABI info
+[0.678s] -- Detecting CXX compiler ABI info - done
+[0.678s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.678s] -- Detecting CXX compile features
+[0.678s] -- Detecting CXX compile features - done
+[0.678s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.678s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.678s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.692s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.850s] -- Configuring done
+[0.852s] -- Generating done
+[0.854s] -- Build files have been written to: /home/youssef/fyp_ws/src/build/youbot_description
+[0.957s] Invoked command in '/home/youssef/fyp_ws/src/build/youbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ros2_ws/install/py_srvcli:/home/youssef/ros2_ws/install/py_srv:/home/youssef/ros2_ws/install/py_pubsub:/home/youssef/ros2_ws/install/pubsub:/home/youssef/ros2_ws/install/line_follower:/home/youssef/ros2_ws/install/fake_sensors:/home/youssef/ros2_ws/install/fake:/home/youssef/ros2_ws/install/actions_py:/home/youssef/turtlebot3_ws/install/turtlebot3_teleop:/home/youssef/turtlebot3_ws/install/turtlebot3_example:/home/youssef/install/fake_sensors:/opt/ros/humble /usr/bin/cmake /home/youssef/fyp_ws/src/youbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/youssef/fyp_ws/src/install/youbot_description
+[0.960s] Invoking command in '/home/youssef/fyp_ws/src/build/youbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ros2_ws/install/py_srvcli:/home/youssef/ros2_ws/install/py_srv:/home/youssef/ros2_ws/install/py_pubsub:/home/youssef/ros2_ws/install/pubsub:/home/youssef/ros2_ws/install/line_follower:/home/youssef/ros2_ws/install/fake_sensors:/home/youssef/ros2_ws/install/fake:/home/youssef/ros2_ws/install/actions_py:/home/youssef/turtlebot3_ws/install/turtlebot3_teleop:/home/youssef/turtlebot3_ws/install/turtlebot3_example:/home/youssef/install/fake_sensors:/opt/ros/humble /usr/bin/cmake --build /home/youssef/fyp_ws/src/build/youbot_description -- -j8 -l8
+[1.008s] Invoked command in '/home/youssef/fyp_ws/src/build/youbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ros2_ws/install/py_srvcli:/home/youssef/ros2_ws/install/py_srv:/home/youssef/ros2_ws/install/py_pubsub:/home/youssef/ros2_ws/install/pubsub:/home/youssef/ros2_ws/install/line_follower:/home/youssef/ros2_ws/install/fake_sensors:/home/youssef/ros2_ws/install/fake:/home/youssef/ros2_ws/install/actions_py:/home/youssef/turtlebot3_ws/install/turtlebot3_teleop:/home/youssef/turtlebot3_ws/install/turtlebot3_example:/home/youssef/install/fake_sensors:/opt/ros/humble /usr/bin/cmake --build /home/youssef/fyp_ws/src/build/youbot_description -- -j8 -l8
+[1.020s] Invoking command in '/home/youssef/fyp_ws/src/build/youbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ros2_ws/install/py_srvcli:/home/youssef/ros2_ws/install/py_srv:/home/youssef/ros2_ws/install/py_pubsub:/home/youssef/ros2_ws/install/pubsub:/home/youssef/ros2_ws/install/line_follower:/home/youssef/ros2_ws/install/fake_sensors:/home/youssef/ros2_ws/install/fake:/home/youssef/ros2_ws/install/actions_py:/home/youssef/turtlebot3_ws/install/turtlebot3_teleop:/home/youssef/turtlebot3_ws/install/turtlebot3_example:/home/youssef/install/fake_sensors:/opt/ros/humble /usr/bin/cmake --install /home/youssef/fyp_ws/src/build/youbot_description
+[1.029s] -- Install configuration: ""
+[1.033s] -- Execute custom install script
+[1.033s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/launch/gazebo.launch.py
+[1.033s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/launch/gazebo_urdf.launch.py
+[1.033s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/launch/rviz.launch.py
+[1.035s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/rviz/view.rviz
+[1.035s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/sensors/asus_xtion_pro_live_base.dae
+[1.035s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/sensors/asus_xtion_pro_live_base.png
+[1.036s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/sensors/asus_xtion_pro_live_camera.dae
+[1.036s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/sensors/asus_xtion_pro_live_camera.png
+[1.036s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/sensors/hokuyo.dae
+[1.036s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/sensors/hokuyo_convex.dae
+[1.036s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/sensors/kinect.dae
+[1.036s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/sensors/kinect.tga
+[1.036s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/sensors/microsoft_lifecam.dae
+[1.036s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm0.dae
+[1.036s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm0_convex.dae
+[1.037s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm0_convex.stl
+[1.037s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm0_convex.stl:Zone.Identifier
+[1.037s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm1.dae
+[1.037s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm1_convex.dae
+[1.037s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm2.dae
+[1.037s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm2_convex.dae
+[1.037s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm2_convex.stl
+[1.043s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm2_convex.stl:Zone.Identifier
+[1.043s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm3.dae
+[1.045s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm3_convex.dae
+[1.046s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm4.dae
+[1.046s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm4_convex.dae
+[1.046s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm5.dae
+[1.046s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm5_convex.dae
+[1.046s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_1_convex.stl
+[1.046s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_1_convex.stl:Zone.Identifier
+[1.050s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_2_convex.stl
+[1.051s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_2_convex.stl:Zone.Identifier
+[1.052s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_3_convex.stl
+[1.053s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_3_convex.stl:Zone.Identifier
+[1.054s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_4_convex.stl
+[1.054s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_4_convex.stl:Zone.Identifier
+[1.055s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_5_convex.stl
+[1.055s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_arm/arm_joint_5_convex.stl:Zone.Identifier
+[1.055s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/back-left_wheel.dae
+[1.055s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/back-left_wheel.dae:Zone.Identifier
+[1.059s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/back-right_wheel.dae
+[1.059s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/back-right_wheel.dae:Zone.Identifier
+[1.059s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/base.dae
+[1.059s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/base_convex.dae
+[1.059s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/base_convex.stl
+[1.059s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/base_convex.stl:Zone.Identifier
+[1.059s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/base_frame.dae
+[1.059s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/base_frame.dae:Zone.Identifier
+[1.060s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/front-left_wheel.dae
+[1.060s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/front-left_wheel.dae:Zone.Identifier
+[1.060s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/front-right_wheel.dae
+[1.060s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_base/front-right_wheel.dae:Zone.Identifier
+[1.060s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_gripper/finger.dae
+[1.060s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_gripper/finger_convex.dae
+[1.060s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_gripper/gripper.urdf.xacro
+[1.060s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_gripper/palm.dae
+[1.060s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_gripper/palm_convex.dae
+[1.061s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_plate/plate.dae
+[1.061s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/meshes/youbot_plate/plate_convex.dae
+[1.061s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/youbot.gv
+[1.061s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/youbot.pdf
+[1.061s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/youbot.urdf
+[1.061s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/youbot_dae.urdf.backup
+[1.061s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/urdf/youbot_mujoco.urdf
+[1.061s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/robots/youbot.urdf.xacro
+[1.061s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/robots/youbot_arm_only.urdf.xacro
+[1.062s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/robots/youbot_base_only.urdf.xacro
+[1.065s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/robots/youbot_dual_arm.urdf.xacro
+[1.065s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/controller/ros_controller.urdf.xacro
+[1.065s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/asus_xtion_pro_live_base.dae
+[1.065s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/asus_xtion_pro_live_base.png
+[1.065s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/asus_xtion_pro_live_base.stl
+[1.065s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/asus_xtion_pro_live_camera.dae
+[1.065s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/asus_xtion_pro_live_camera.png
+[1.066s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/asus_xtion_pro_live_camera.stl
+[1.066s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/hokuyo.dae
+[1.066s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/hokuyo.stl
+[1.066s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/hokuyo_convex.dae
+[1.066s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/hokuyo_convex.stl
+[1.066s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/kinect.dae
+[1.066s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/kinect.stl
+[1.067s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/kinect.tga
+[1.067s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/microsoft_lifecam.dae
+[1.067s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/sensors/microsoft_lifecam.stl
+[1.067s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm0.dae
+[1.067s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm0.stl
+[1.067s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm0_convex.dae
+[1.067s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm0_convex.stl
+[1.067s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm1.dae
+[1.068s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm1.stl
+[1.068s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm1_convex.dae
+[1.068s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm1_convex.stl
+[1.068s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm2.dae
+[1.068s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm2.stl
+[1.068s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm2_convex.dae
+[1.068s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm2_convex.stl
+[1.068s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm3.dae
+[1.068s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm3.stl
+[1.069s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm3_convex.dae
+[1.069s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm3_convex.stl
+[1.069s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm4.dae
+[1.069s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm4.stl
+[1.069s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm4_convex.dae
+[1.069s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm4_convex.stl
+[1.069s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm5.dae
+[1.069s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm5.stl
+[1.070s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm5_convex.dae
+[1.070s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm5_convex.stl
+[1.070s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm_joint_1_convex.stl
+[1.070s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm_joint_2_convex.stl
+[1.070s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm_joint_3_convex.stl
+[1.070s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm_joint_4_convex.stl
+[1.070s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_arm/arm_joint_5_convex.stl
+[1.070s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/back-left_wheel.dae
+[1.070s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/back-left_wheel.dae:Zone.Identifier
+[1.071s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/back-left_wheel.stl
+[1.071s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/back-right_wheel.dae
+[1.071s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/back-right_wheel.dae:Zone.Identifier
+[1.071s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/back-right_wheel.stl
+[1.071s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/base.dae
+[1.071s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/base.stl
+[1.071s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/base_convex.dae
+[1.071s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/base_convex.stl
+[1.071s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/base_convex.stl:Zone.Identifier
+[1.072s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/base_frame.dae
+[1.072s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/base_frame.dae:Zone.Identifier
+[1.072s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/base_frame.stl
+[1.073s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/front-left_wheel.dae
+[1.073s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/front-left_wheel.dae:Zone.Identifier
+[1.073s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/front-left_wheel.stl
+[1.073s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/front-right_wheel.dae
+[1.073s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/front-right_wheel.dae:Zone.Identifier
+[1.073s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_base/front-right_wheel.stl
+[1.073s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_gripper/finger.dae
+[1.073s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_gripper/finger.stl
+[1.074s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_gripper/finger_convex.dae
+[1.074s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_gripper/finger_convex.stl
+[1.074s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_gripper/palm.dae
+[1.074s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_gripper/palm.stl
+[1.074s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_gripper/palm_convex.dae
+[1.074s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_gripper/palm_convex.stl
+[1.074s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_plate/plate.dae
+[1.074s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_plate/plate.stl
+[1.074s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_plate/plate_convex.dae
+[1.075s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/meshes/youbot_plate/plate_convex.stl
+[1.075s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/config/my_controllers.yaml
+[1.075s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/config/youbot.yaml
+[1.075s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/materials/gazebo.material
+[1.075s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/materials/scripts/mailbox.material
+[1.075s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/sensors/asus_xtion_pro_live_base.dae
+[1.075s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/sensors/asus_xtion_pro_live_base.png
+[1.075s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/sensors/asus_xtion_pro_live_camera.dae
+[1.076s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/sensors/asus_xtion_pro_live_camera.png
+[1.076s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/sensors/hokuyo.dae
+[1.076s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/sensors/hokuyo_convex.dae
+[1.076s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/sensors/kinect.dae
+[1.076s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/sensors/kinect.tga
+[1.076s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/sensors/microsoft_lifecam.dae
+[1.076s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm0.dae
+[1.076s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm0_convex.dae
+[1.076s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm1.dae
+[1.077s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm1_convex.dae
+[1.077s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm2.dae
+[1.077s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm2_convex.dae
+[1.077s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm3.dae
+[1.077s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm3_convex.dae
+[1.077s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm4.dae
+[1.077s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm4_convex.dae
+[1.077s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm5.dae
+[1.077s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_arm/arm5_convex.dae
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_base/base.dae
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_base/base_convex.dae
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_gripper/finger.dae
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_gripper/finger_convex.dae
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_gripper/palm.dae
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_gripper/palm_convex.dae
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_plate/plate.dae
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/meshes/youbot_plate/plate_convex.dae
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/model.config
+[1.078s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/model.sdf
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/Youbot/model_dae.sdf.backup
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/empty_world.sdf
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/sdf/world.sdf
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/mujoco/README.md
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/mujoco/convert.py
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/mujoco/convert_meshes.py
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/mujoco/screenshot.png
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/mujoco/view_mujoco.py
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/mujoco/youbot.xml
+[1.079s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/mujoco/youbot_temp.urdf
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/ament_index/resource_index/package_run_dependencies/youbot_description
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/ament_index/resource_index/parent_prefix_path/youbot_description
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/environment/ament_prefix_path.sh
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/environment/ament_prefix_path.dsv
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/environment/path.sh
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/environment/path.dsv
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/local_setup.bash
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/local_setup.sh
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/local_setup.zsh
+[1.080s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/local_setup.dsv
+[1.081s] -- Symlinking: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/package.dsv
+[1.092s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/ament_index/resource_index/packages/youbot_description
+[1.092s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/cmake/youbot_descriptionConfig.cmake
+[1.092s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/cmake/youbot_descriptionConfig-version.cmake
+[1.092s] -- Up-to-date symlink: /home/youssef/fyp_ws/src/install/youbot_description/share/youbot_description/package.xml
+[1.099s] Invoked command in '/home/youssef/fyp_ws/src/build/youbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/youssef/ros2_ws/install/py_srvcli:/home/youssef/ros2_ws/install/py_srv:/home/youssef/ros2_ws/install/py_pubsub:/home/youssef/ros2_ws/install/pubsub:/home/youssef/ros2_ws/install/line_follower:/home/youssef/ros2_ws/install/fake_sensors:/home/youssef/ros2_ws/install/fake:/home/youssef/ros2_ws/install/actions_py:/home/youssef/turtlebot3_ws/install/turtlebot3_teleop:/home/youssef/turtlebot3_ws/install/turtlebot3_example:/home/youssef/install/fake_sensors:/opt/ros/humble /usr/bin/cmake --install /home/youssef/fyp_ws/src/build/youbot_description

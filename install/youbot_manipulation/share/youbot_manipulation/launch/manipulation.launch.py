@@ -30,6 +30,8 @@ def generate_launch_description():
 
 
 
+   #adding the ros2 controllers for the arm trajectory and the gripper action 
+
     trajectory = Node(
         package="controller_manager",
         executable="spawner",
@@ -57,6 +59,4 @@ def generate_launch_description():
 
  
 
-
-   #adding the ros2 controllers for the arm trajectory and the gripper action 
 

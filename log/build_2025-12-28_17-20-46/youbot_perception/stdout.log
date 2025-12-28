@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing youbot_perception.egg-info/PKG-INFO
+writing dependency_links to youbot_perception.egg-info/dependency_links.txt
+writing entry points to youbot_perception.egg-info/entry_points.txt
+writing requirements to youbot_perception.egg-info/requires.txt
+writing top-level names to youbot_perception.egg-info/top_level.txt
+reading manifest file 'youbot_perception.egg-info/SOURCES.txt'
+writing manifest file 'youbot_perception.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/youssef/fyp_ws/src/install/youbot_perception/lib/python3.10/site-packages/youbot-perception.egg-link (link to .)
+Installing image script to /home/youssef/fyp_ws/src/install/youbot_perception/lib/youbot_perception
+
+Installed /home/youssef/fyp_ws/src/build/youbot_perception
+running symlink_data
+symbolically linking /home/youssef/fyp_ws/src/build/youbot_perception/launch/perception.launch.py -> /home/youssef/fyp_ws/src/install/youbot_perception/share/youbot_perception/launch

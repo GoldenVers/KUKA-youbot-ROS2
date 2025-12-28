@@ -1,0 +1,3 @@
+[console_scripts]
+image = youbot_perception.image:main
+

@@ -1,0 +1,21 @@
+[2.398s] Invoking command in '/home/youssef/fyp_ws/src/youbot_manipulation': PYTHONPATH=/home/youssef/fyp_ws/src/build/youbot_manipulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/fyp_ws/src/install/youbot_manipulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/youbot_manipulation build --build-base /home/youssef/fyp_ws/src/build/youbot_manipulation/build install --record /home/youssef/fyp_ws/src/build/youbot_manipulation/install.log --single-version-externally-managed install_data
+[2.933s] running egg_info
+[2.935s] writing ../build/youbot_manipulation/youbot_manipulation.egg-info/PKG-INFO
+[2.938s] writing dependency_links to ../build/youbot_manipulation/youbot_manipulation.egg-info/dependency_links.txt
+[2.938s] writing entry points to ../build/youbot_manipulation/youbot_manipulation.egg-info/entry_points.txt
+[2.939s] writing requirements to ../build/youbot_manipulation/youbot_manipulation.egg-info/requires.txt
+[2.939s] writing top-level names to ../build/youbot_manipulation/youbot_manipulation.egg-info/top_level.txt
+[2.940s] reading manifest file '../build/youbot_manipulation/youbot_manipulation.egg-info/SOURCES.txt'
+[2.941s] adding license file 'LICENSE'
+[2.943s] writing manifest file '../build/youbot_manipulation/youbot_manipulation.egg-info/SOURCES.txt'
+[2.943s] running build
+[2.943s] running build_py
+[2.944s] running install
+[2.944s] running install_lib
+[2.947s] running install_data
+[2.947s] running install_egg_info
+[2.955s] removing '/home/youssef/fyp_ws/src/install/youbot_manipulation/lib/python3.10/site-packages/youbot_manipulation-0.0.0-py3.10.egg-info' (and everything under it)
+[2.955s] Copying ../build/youbot_manipulation/youbot_manipulation.egg-info to /home/youssef/fyp_ws/src/install/youbot_manipulation/lib/python3.10/site-packages/youbot_manipulation-0.0.0-py3.10.egg-info
+[2.956s] running install_scripts
+[3.012s] writing list of installed files to '/home/youssef/fyp_ws/src/build/youbot_manipulation/install.log'
+[3.073s] Invoked command in '/home/youssef/fyp_ws/src/youbot_manipulation' returned '0': PYTHONPATH=/home/youssef/fyp_ws/src/build/youbot_manipulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/fyp_ws/src/install/youbot_manipulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/youbot_manipulation build --build-base /home/youssef/fyp_ws/src/build/youbot_manipulation/build install --record /home/youssef/fyp_ws/src/build/youbot_manipulation/install.log --single-version-externally-managed install_data

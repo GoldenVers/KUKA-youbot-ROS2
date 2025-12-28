@@ -1,0 +1,24 @@
+[2.363s] Invoking command in '/home/youssef/fyp_ws/src/youbot_perception': PYTHONPATH=/home/youssef/fyp_ws/src/build/youbot_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/fyp_ws/src/install/youbot_perception/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/youbot_perception build --build-base /home/youssef/fyp_ws/src/build/youbot_perception/build install --record /home/youssef/fyp_ws/src/build/youbot_perception/install.log --single-version-externally-managed install_data
+[2.906s] running egg_info
+[2.907s] writing ../build/youbot_perception/youbot_perception.egg-info/PKG-INFO
+[2.908s] writing dependency_links to ../build/youbot_perception/youbot_perception.egg-info/dependency_links.txt
+[2.908s] writing entry points to ../build/youbot_perception/youbot_perception.egg-info/entry_points.txt
+[2.908s] writing requirements to ../build/youbot_perception/youbot_perception.egg-info/requires.txt
+[2.908s] writing top-level names to ../build/youbot_perception/youbot_perception.egg-info/top_level.txt
+[2.911s] reading manifest file '../build/youbot_perception/youbot_perception.egg-info/SOURCES.txt'
+[2.917s] writing manifest file '../build/youbot_perception/youbot_perception.egg-info/SOURCES.txt'
+[2.918s] running build
+[2.918s] running build_py
+[2.918s] copying youbot_perception/image.py -> /home/youssef/fyp_ws/src/build/youbot_perception/build/lib/youbot_perception
+[2.918s] running install
+[2.918s] running install_lib
+[2.920s] copying /home/youssef/fyp_ws/src/build/youbot_perception/build/lib/youbot_perception/image.py -> /home/youssef/fyp_ws/src/install/youbot_perception/lib/python3.10/site-packages/youbot_perception
+[2.922s] byte-compiling /home/youssef/fyp_ws/src/install/youbot_perception/lib/python3.10/site-packages/youbot_perception/image.py to image.cpython-310.pyc
+[2.926s] running install_data
+[2.926s] running install_egg_info
+[2.927s] removing '/home/youssef/fyp_ws/src/install/youbot_perception/lib/python3.10/site-packages/youbot_perception-0.0.0-py3.10.egg-info' (and everything under it)
+[2.928s] Copying ../build/youbot_perception/youbot_perception.egg-info to /home/youssef/fyp_ws/src/install/youbot_perception/lib/python3.10/site-packages/youbot_perception-0.0.0-py3.10.egg-info
+[2.931s] running install_scripts
+[2.971s] Installing image script to /home/youssef/fyp_ws/src/install/youbot_perception/lib/youbot_perception
+[2.972s] writing list of installed files to '/home/youssef/fyp_ws/src/build/youbot_perception/install.log'
+[3.021s] Invoked command in '/home/youssef/fyp_ws/src/youbot_perception' returned '0': PYTHONPATH=/home/youssef/fyp_ws/src/build/youbot_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/youssef/fyp_ws/src/install/youbot_perception/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/youbot_perception build --build-base /home/youssef/fyp_ws/src/build/youbot_perception/build install --record /home/youssef/fyp_ws/src/build/youbot_perception/install.log --single-version-externally-managed install_data
