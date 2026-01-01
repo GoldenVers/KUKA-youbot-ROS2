@@ -1,1 +1,0 @@
-/home/youssef/fyp_ws/src/youbot_description/mujoco/view_mujoco.py

@@ -1,1 +1,0 @@
-/home/youssef/fyp_ws/src/youbot_navigation/launch/nav2.launch.py

@@ -1,1 +1,0 @@
-/home/youssef/fyp_ws/src/build/youbot_description/ament_cmake_core/youbot_descriptionConfig.cmake

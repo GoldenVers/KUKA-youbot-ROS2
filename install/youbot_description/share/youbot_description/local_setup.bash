@@ -1,1 +1,0 @@
-/home/youssef/fyp_ws/src/build/youbot_description/ament_cmake_environment_hooks/local_setup.bash
